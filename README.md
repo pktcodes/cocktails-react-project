@@ -1,4 +1,4 @@
-# Cocktails 
+# Cocktails 🍸
 > PROD [Live] : https://react-cocktails-prod.netlify.app/
 
 #### Cocktails consists of a straight forward user interface where there is a 
