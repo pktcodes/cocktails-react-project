@@ -8,7 +8,7 @@
 - To run the project locally, clone the repo, `npm install` to install the dependencies and `npm start` to start up the development server on default port 3000.
 
 #### Languages 
-HTML, CSS, JavaScript, React - Hooks ~ Context API, React Router 6
+HTML, CSS, JavaScript, React ~ Context API - Hooks, React Router 6
 
 #### API
 https://www.thecocktaildb.com/api.php
